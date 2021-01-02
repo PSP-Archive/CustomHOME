@@ -93,6 +93,10 @@ CustomHOME内の設定でPSPStatesの表示を有効にしてください。
 
 -------------------------------------------------------------------------------------
 【更新内容】
+1.3.4(update 2013/06/21)
+・一部の壁紙がうまく表示されないバグを修正
+・cushome.prsを更新
+
 1.3.3(update 2013/04/07)
 ・壁紙が最初しか表示されないバグを修正
 
@@ -267,6 +271,6 @@ CustomHOME内の設定でPSPStatesの表示を有効にしてください。
 
 -------------------------------------------------------------------------------------
 不具合等がありましたらABCanGに連絡ください
-twitter	http://twitter.com/#!/ABCanG1015
-blog	http://abcang.blog119.fc2.com/
-web		http://abcang.hiroi01.com/
+twitter	http://twitter.com/ABCanG1015
+web		http://abcang.net/
+mail      abcang1015@gmail.com

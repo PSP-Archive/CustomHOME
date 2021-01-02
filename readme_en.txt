@@ -84,6 +84,10 @@ Example2: %weekday, %day. %monthname %year %hour12:%min:%sec %ampm
 
 -------------------------------------------------------------------------------------
 [update]
+1.3.4(update 2013/06/21)
+[!]Fixed a bug that some wallpaper is not displayed well.
+[!]Update cushome.prs.
+
 1.3.3(update 2013/04/07)
 [!]Fixed a bug that wallpaper appears only once.
 
@@ -253,5 +257,6 @@ Thanks every developers.
 
 -------------------------------------------------------------------------------------
 [Contact]
-twitter   http://twitter.com/#!/ABCanG1015
-blog      http://abcang.blog119.fc2.com/
+twitter   http://twitter.com/ABCanG1015
+web       http://abcang.net/
+mail      abcang1015@gmail.com

@@ -27,6 +27,8 @@ int init_image(char *path, u16 *vram){
 		goto EXIT;
 	}
 	
+	sceIoLseek(fd, header.offset, PSP_SEEK_SET);
+	
 	buf = mem_alloc(READ_BMP_LINE_SIZE);
 	if(buf == NULL) {
 		ret = -3;

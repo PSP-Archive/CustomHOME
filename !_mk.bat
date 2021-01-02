@@ -4,6 +4,6 @@ make > log.txt 2>&1
 C:\pspsdk\psp\sdk\psp-packer\bin\psp-packer *.prx
 del *.o
 del *.elf
-copy *.prx G:\seplugins\cushome\
+copy *.prx F:\seplugins\cushome\
 start log.txt
 exit
